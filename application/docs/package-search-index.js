@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"BLL"},{"l":"DAL"},{"l":"Main"},{"l":"View.CRUDLogic"},{"l":"View.RunLogic"}];updateSearchResults();
